@@ -1,9 +1,6 @@
 # Leetcode-30-Days-Code-Challenge-April-2020
 
-Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetcode. Solutions with different algorithms/approaches having different complexities and implementation in various languages.
-
-*Code available in : Python, C++ (I'll try to write in more languages. Open for contributers to add up to this repo.)* :v:
-
+Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetcode.
 
 ### Week-1
 
@@ -55,12 +52,3 @@ Repository containing my solutions to 30 Days Code Challenge April-2020 on Leetc
 * [2-String Valid in Binary Tree](Week5/2%20-%20String%20Valid%20in%20Binary%20Tree)
 
 *Over and Out :smiley: Completed the challenge consistently.* :v:
-
-## Contributing
-
-Open to contributions with interesting and more efficient solutions for the problem in variety of programming languages. Please open an issue, to discuss the changes or adding more solutions to the repo. Thanks. :smiley:
-
-
-## Author
-
-[**Vatsal Mistry**](https://mistryvatsal.github.io)
